@@ -71,7 +71,7 @@ def list_all_target_policies(org_client, each_policy):
 
 
 ###############################
-# List targets of all policies
+# Delete policies
 ###############################
 def delete_policies(org_client, unattached_policies):
     """
